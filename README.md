@@ -65,4 +65,4 @@ The Academic Examination Management System is an innovative web application desi
 4. **Educator:**
    - Evaluates and grades examination papers, ensuring fair assessment.
 
-The Academic Examination Management System empowers the university community with a secure platform for conducting doctoral examinations. Utilizing HTML, CSS, JavaScript, and the Vapor Swift framework, this system fosters academic integrity and advancement. For detailed information, refer to the [full project report](https://example.com/academic-exam-management-report).
+The Academic Examination Management System empowers the university community with a secure platform for conducting doctoral examinations. Utilizing HTML, CSS, JavaScript, and the Vapor Swift framework, this system fosters academic integrity and advancement. For detailed information, refer to the [full project report](https://github.com/Napi55/ConcourDoc2UC/files/12241518/EDL-Rapport45.pdf).
