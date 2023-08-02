@@ -6,7 +6,7 @@ The Academic Examination Management System is an advanced web application meticu
  
  <img src="https://user-images.githubusercontent.com/88117366/257817432-b92ad14f-e386-4c8f-a1de-82aaf51e5f2c.png" width="29%" height=400 align="left">
  
- <img src="https://user-images.githubusercontent.com/88117366/257817432-b92ad14f-e386-4c8f-a1de-82aaf51e5f2c.png" width="29%" height=400 align="left">
+ <img src="https://user-images.githubusercontent.com/88117366/257817744-aef27aff-397b-4104-a44f-cd6b52cc27ca.png" width="29%" height=400 align="left">
 **Technologies Used:**
 - **Front-End:** The user interface is developed using a combination of HTML, CSS, and JavaScript, ensuring an engaging and responsive experience for all users.
 
