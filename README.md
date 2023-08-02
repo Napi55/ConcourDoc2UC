@@ -2,6 +2,7 @@
 
 The Academic Examination Management System is an advanced web application meticulously designed to streamline and enhance the process of conducting doctoral-level examinations within the university. This innovative system is tailored to meet the specific needs of candidates, administrative staff, and educators, ensuring a seamless and secure examination experience.
 
+ <img src="https://user-images.githubusercontent.com/88117366/229286589-d75bab58-7dfd-4616-90b3-beb05dabbddb.png" width="29%" height=400 align="left">
 **Technologies Used:**
 - **Front-End:** The user interface is developed using a combination of HTML, CSS, and JavaScript, ensuring an engaging and responsive experience for all users.
 
