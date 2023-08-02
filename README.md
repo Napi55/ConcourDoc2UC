@@ -1,6 +1,6 @@
 # DOCTORATE CONTEST MANAGEMENT SYSTEM 
 
-[![Project Report](https://img.shields.io/badge/Project%20Report-View%20Report-blue)](https://example.com/academic-exam-management-report)
+[![Project Report](https://img.shields.io/badge/Project%20Report-View%20Report-blue)](https://github.com/Napi55/ConcourDoc2UC/files/12241518/EDL-Rapport45.pdf)
 
 The Academic Examination Management System is an innovative web application designed to streamline and enhance the process of conducting doctoral-level examinations within the university. This robust system caters to the needs of candidates, administrative staff, and educators, ensuring a seamless and secure examination experience.
 
