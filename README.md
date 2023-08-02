@@ -1,18 +1,16 @@
-**Project Description: Academic Examination Management System**
+# Academic Examination Management System
+
+[Full Project Report](https://example.com/academic-exam-management-report)
 
 The Academic Examination Management System is an advanced web application meticulously designed to streamline and enhance the process of conducting doctoral-level examinations within the university. This innovative system is tailored to meet the specific needs of candidates, administrative staff, and educators, ensuring a seamless and secure examination experience.
 
- <img src="https://user-images.githubusercontent.com/88117366/257817432-b92ad14f-e386-4c8f-a1de-82aaf51e5f2c.png" width="29%" height=400 align="left">
- 
- <img src="https://user-images.githubusercontent.com/88117366/257817432-b92ad14f-e386-4c8f-a1de-82aaf51e5f2c.png" width="29%" height=400 align="left">
- 
- <img src="https://user-images.githubusercontent.com/88117366/257817744-aef27aff-397b-4104-a44f-cd6b52cc27ca.png" width="29%" height=400 align="left">
-**Technologies Used:**
+## Technologies Used
+
 - **Front-End:** The user interface is developed using a combination of HTML, CSS, and JavaScript, ensuring an engaging and responsive experience for all users.
 
 - **Back-End:** The application's robust backend is powered by the Vapor Swift framework, a powerful and expressive server-side Swift framework. This choice guarantees efficient data processing, seamless communication, and high-performance interactions.
 
-**Functional Requirements:**
+## Functional Requirements
 
 1. **Candidate Access:**
    - Registered candidates can seamlessly log in to the web application.
@@ -37,7 +35,7 @@ The Academic Examination Management System is an advanced web application meticu
 7. **Teacher Assessment Interface:**
    - Educators are provided with a user-friendly interface to meticulously input and submit grades for the assigned examination papers.
 
-**Non-Functional Requirements:**
+## Non-Functional Requirements
 
 1. **Security Assurance:**
    - The application places paramount importance on safeguarding candidate information, ensuring utmost confidentiality, and employing stringent access controls.
@@ -54,7 +52,7 @@ The Academic Examination Management System is an advanced web application meticu
 5. **Sustainable Evolution:**
    - The application's architecture is carefully crafted to ensure ease of maintenance and scalability, effectively meeting the evolving needs of the university.
 
-**Key Actors:**
+## Key Actors
 
 1. **Candidate:**
    - Embodies a promising student embarking on the doctoral examination journey.
@@ -70,4 +68,4 @@ The Academic Examination Management System is an advanced web application meticu
 4. **Educator:**
    - Holds the responsibility of meticulously evaluating and grading assigned examination papers, ensuring a fair and unbiased assessment.
 
-The Academic Examination Management System stands as a testament to technological excellence, empowering the university community with an intuitive, secure, and robust platform for orchestrating doctoral examinations. By harnessing HTML, CSS, JavaScript, and the Vapor Swift framework, this system revolutionizes the examination process while nurturing academic integrity and advancement.
+The Academic Examination Management System stands as a testament to technological excellence, empowering the university community with an intuitive, secure, and robust platform for orchestrating doctoral examinations. By harnessing HTML, CSS, JavaScript, and the Vapor Swift framework, this system revolutionizes the examination process while nurturing academic integrity and advancement. Please refer to the [full project report](https://example.com/academic-exam-management-report) for more comprehensive details.
